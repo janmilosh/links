@@ -1,1 +1,1 @@
-# Please see the wiki for useful development-related links.
+# Please see the [wiki](https://github.com/janmilosh/links/wiki) for useful development-related links.
